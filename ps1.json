@@ -1,0 +1,39 @@
+{
+  "DATA": [
+    {
+      "name": "Gran Turismo 2 (Disc 2 - GT Mode)",
+      "titleid": "SCES12380",
+      "region": "EUR",
+      "pkg_url": "https://github.com",
+      "size": "REPLACE_WITH_EXACT_BYTES_FOR_GT2"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex Strikes Back",
+      "titleid": "SCUS94154",
+      "region": "USA",
+      "pkg_url": "https://github.com/D4Lfounder/ps4-pkgs/releases/download/v0.1/UP9000-SCUS94154_00-SCUS94154PSXFPKG-A0100-V0100.pkg",
+      "size": "REPLACE_WITH_EXACT_BYTES_FOR_CRASH2"
+    },
+    {
+      "name": "Crash Bandicoot 3 - Warped",
+      "titleid": "SCUS94244",
+      "region": "USA",
+      "pkg_url": "https://github.com/D4Lfounder/ps4-pkgs/releases/download/v0.1/UP9000-SCUS94244_00-SCUS94244PSXFPKG-A0100-V0100.pkg",
+      "size": "REPLACE_WITH_EXACT_BYTES_FOR_CRASH3"
+    },
+    {
+      "name": "Crash Team Racing",
+      "titleid": "SCUS94426",
+      "region": "USA",
+      "pkg_url": "https://github.com/D4Lfounder/ps4-pkgs/releases/download/v0.1/UP9000-SCUS94426_00-SCUS94426PSXFPKG-A0100-V0100.pkg",
+      "size": "REPLACE_WITH_EXACT_BYTES_FOR_CTR"
+    },
+    {
+      "name": "Crash Bandicoot",
+      "titleid": "SCUS94900",
+      "region": "USA",
+      "pkg_url": "https://github.com/D4Lfounder/ps4-pkgs/releases/download/v0.1/UP9000-SCUS94900_00-SCUS94900PSXFPKG-A0100-V0100.pkg",
+      "size": "REPLACE_WITH_EXACT_BYTES_FOR_CRASH1"
+    }
+  ]
+}
